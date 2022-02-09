@@ -1,5 +1,7 @@
 # GeoJson Viewer using react
 
+![](https://raw.githubusercontent.com/funakoshiapi/GeoJsonViewer/main/geoviewer.PNG)
+
 In the project directory, you can run:
 
 ### `yarn install`
